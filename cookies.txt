@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+localhost	TRUE	/doancuoiki/	FALSE	1999999999	woocommerce_items_in_cart	1
+localhost	TRUE	/doancuoiki/	FALSE	1999999999	wp_woocommerce_session_f6d8a99d6b1e61a2839c5eff264e1613	t_385d7bca163cea89844bc45b03ceab%7C%7C1686749120%7C%7C1686745520%7C%7Cdf2b0f31efb412e1ba4d026e946e5d4c
+localhost	TRUE	/doancuoiki/	FALSE	1999999999	wordpress_test_cookie	WP%20Cookie%20check
+localhost	TRUE	/doancuoiki/	FALSE	1999999999	woocommerce_cart_hash	4ea2c5c5f7a1a1acfc21c6bbf3a4b34c
+
